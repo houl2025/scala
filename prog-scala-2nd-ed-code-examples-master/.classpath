@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry excluding="progscala2/typelessdomore/|progscala2/|progscala2/toolslibs/|progscala2/basicoop/" kind="src" path="src/main/scala"/>
+	<classpathentry excluding="typelessdomore/|toolslibs/|basicoop/" kind="src" path="src/main/scala/progscala2"/>
+	<classpathentry kind="src" path="src/main/scala/progscala2/basicoop"/>
+	<classpathentry kind="src" path="src/main/scala/progscala2/toolslibs"/>
+	<classpathentry kind="src" path="src/main/scala/progscala2/typelessdomore"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry excluding="progscala2/" kind="src" path="src/test/scala"/>
+	<classpathentry kind="src" path="src/test/scala/progscala2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
